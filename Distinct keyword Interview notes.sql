@@ -1,4 +1,4 @@
-									Distinct Keyword in sql 
+				                               Distinct Keyword in sql 
 What is distinct keyword?? 
 1.The distinct keyword in sql is used with the select statement to remove duplicate rows from the 
 query result set and return only unique values or unique combination of column values.  
