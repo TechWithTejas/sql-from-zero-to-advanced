@@ -147,15 +147,15 @@ from employees;
 
 
 Important points about select statement 
--->Select is used to retrieve data from one or more tables. 
--->It specifies the columns and expressions that should appear in the final result. 
--->We can select one column, multiple columns as well as all the columns. 
--->Select * retrieves all the columns from the specified table. 
--->We can perform calculations using expressions inside the select statement 
--->We can provide an alias- a shorter alternative name to columns and expressions. 
--->Distinct removes the duplicate rows from the query result. 
--->Select does not modify the original table data. 
--->In logical query processing order, select is evaluated after From, Where, Group By and having. 
+1.Select is used to retrieve data from one or more tables. 
+2.It specifies the columns and expressions that should appear in the final result. 
+3.We can select one column, multiple columns as well as all the columns. 
+4.Select * retrieves all the columns from the specified table. 
+5.We can perform calculations using expressions inside the select statement 
+6.We can provide an alias- a shorter alternative name to columns and expressions. 
+7.Distinct removes the duplicate rows from the query result. 
+8.Select does not modify the original table data. 
+9.In logical query processing order, select is evaluated after From, Where, Group By and having. 
     
 
 
